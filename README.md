@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 <br>
-## 🔥 About Me  
-
 - 🎓 **Education**: MCA from **Maharana Pratap Engineering College, Kanpur** | BCA from **CSJMU**  
 - 💼 **Internship**: Data Science Intern at **iNeuron.ai** (Aug 2023 - Sept 2024)  
-- 📚 **Certifications**: Machine Learning (IIT Kanpur), Full Stack Data Science (iNeuron.ai), BCG Data Science Job Simulation, Generative AI (Udemy)  
+- 📚 **Certifications**: **Machine Learning (IIT Kanpur)**, **Full Stack Data Science (iNeuron.ai)**, **BCG Data Science Job Simulation**, **Generative AI (Udemy)**  
 - 🏆 **Key Projects**:  
   - **Credit Card Default Prediction** (End-to-End ML Model)  
   - **Text Summarizer using PyTorch**  
@@ -37,17 +35,7 @@ Here are some ideas to get you started:
 - 👯 **I’m looking to collaborate on:** **AI/ML, NLP, Deep Learning, and Open-Source AI Projects**  
 - 🤔 **I’m looking for help with:** **Scaling ML models for production and optimizing deep learning architectures**  
 
-## ⚙️ Skills & Tech Stack  
 
-🔹 **Programming:** Python, SQL, Flask, Streamlit  
-🔹 **AI/ML/DL:** TensorFlow, PyTorch, OpenCV, NLP, LLMs  
-🔹 **MLOps/AIOps:** DVC, Git, Docker, Azure, AWS, Vector DB  
-🔹 **Databases:** MySQL, MongoDB  
-
-## 📫 Let's Connect!  
-
-🔗 **LinkedIn:** [Suchindra Kumar](#)  
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
 
 ---
 
