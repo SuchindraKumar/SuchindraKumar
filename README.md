@@ -19,9 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-<br>- 🎓 **Education**: MCA from **Maharana Pratap Engineering College, Kanpur** | BCA from **CSJMU**  
+<br>🎓 **Education**: MCA from **Maharana Pratap Engineering College, Kanpur** | BCA from **CSJMU**  
 - 💼 **Internship**: Data Science Intern at **iNeuron.ai** (Aug 2023 - Sept 2024)  
-- 📚 **Certifications**: **Machine Learning (IIT Kanpur)**, **Full Stack Data Science (iNeuron.ai)**, **BCG Data Science Job Simulation**, **Generative AI (Udemy)**  
+- 📚 **Certifications**: **Machine Learning (IIT Kanpur)**,
+-  **Full Stack Data Science (iNeuron.ai)**,
+-  **BCG Data Science Job Simulation**,
+-   **Generative AI (Udemy)**
+-    
 - 🏆 **Key Projects**:  
   - **Credit Card Default Prediction** (End-to-End ML Model)  
   - **Text Summarizer using PyTorch**  
